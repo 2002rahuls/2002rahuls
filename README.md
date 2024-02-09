@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=2002rahuls&label=Profile%20views&color=0e75b6&style=flat" alt="2002rahuls" /> </p>
 
-- 🔭 I’m currently exploring  **WEB Techs**
+- 🔭 I’m currently exploring  **World of Web**
 
 - 🌱 I’m currently learning **MERN**
 
