@@ -1,4 +1,3 @@
-![logo](https://github.com/2002rahuls/2002rahuls/blob/main/github_banner.png)
 <h1 align="center">Hi 👋, I'm Rahul</h1>
 <h3 align="center">Backend Developer | Cloud Automation Engineer | NLP Enthusiast</h3>
 
